@@ -1,2 +1,3 @@
-# python-class-oop
-inflean class oop course
+# 
+type python-class-oop
+inflean Type python on class oop course
